@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915440574816",
+    "project_id": "ulsandorm",
+    "storage_bucket": "ulsandorm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915440574816:android:f7aa1f304068765caffe05",
+        "android_client_info": {
+          "package_name": "com.example.sns_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915440574816-not2p3ceiiol86uiqccmjmngvct9urvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rvHH8FXLk8DLcXMO5UW5wQYgPoc5MfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915440574816-not2p3ceiiol86uiqccmjmngvct9urvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
